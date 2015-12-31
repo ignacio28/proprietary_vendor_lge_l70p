@@ -1,1 +1,1 @@
-Vendor blobs for LGE L Fino l70pds devices
+Vendor blobs for LGE L Fino l70p devices
